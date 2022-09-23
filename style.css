@@ -65,6 +65,13 @@ body {
     align-items: center;
 }
 
+p {
+    color: #a8bec9;
+    font-size: .8rem;
+    margin-top: 8rem;
+    text-align: center;
+}
+
 @media(max-width:576px) {
     .game {
         width: 90%;
